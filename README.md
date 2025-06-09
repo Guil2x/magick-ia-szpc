@@ -22,7 +22,7 @@ Você pode acessar o projeto online [clicando aqui](https://guil2x.github.io/mag
 
 - **HTML5**
 - **CSS3**
-- **JavaScript Vanilla**
+- **JavaScript**
 
 ---
 
