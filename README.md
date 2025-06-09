@@ -1,6 +1,6 @@
 # 🧙‍♂️ Magick IA - Loja de Cartas Mágicas
 
-![Magick IA Preview](https://guil2x.github.io/magick-ia-szpc/)
+<img src="src/img/banner.png" alt="Preview da loja Magick IA" />
 
 Projeto de loja virtual fictícia para a venda de cartas mágicas, com design inspirado em jogos de RPG e TCGs (Trading Card Games), como **Magic: The Gathering**.
 
